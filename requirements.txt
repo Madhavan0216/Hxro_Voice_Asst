@@ -1,0 +1,14 @@
+groq
+python-dotenv
+SpeechRecognition
+pyttsx3
+pycaw
+comtypes
+pywhatkit
+spotipy
+requests
+sounddevice
+numpy
+scipy
+pyautogui
+PyQt6
